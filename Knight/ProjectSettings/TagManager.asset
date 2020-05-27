@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - GROUND
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2322155103
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fence
+    uniqueID: 2208047745
+    locked: 0
+  - name: villageObjects
+    uniqueID: 632737711
+    locked: 0
+  - name: Text
+    uniqueID: 1989123605
+    locked: 0
+  - name: Character
+    uniqueID: 2842589527
+    locked: 0
