@@ -22,20 +22,20 @@ AnimationClip:
     - time: 0
       value: {fileID: -7848039375673857549, guid: 3eb6c24c1f9a7fe49ac47fc974b2a2a5,
         type: 3}
-    - time: 0.083333336
+    - time: 0.01
       value: {fileID: 1228786266525858794, guid: 3eb6c24c1f9a7fe49ac47fc974b2a2a5,
         type: 3}
-    - time: 0.16666667
+    - time: 0.02
       value: {fileID: -8184982077848143418, guid: 3eb6c24c1f9a7fe49ac47fc974b2a2a5,
         type: 3}
-    - time: 0.25
+    - time: 0.03
       value: {fileID: 3821791876570597701, guid: 3eb6c24c1f9a7fe49ac47fc974b2a2a5,
         type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 12
+  m_SampleRate: 100
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -59,7 +59,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.33333334
+    m_StopTime: 0.04
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -78,4 +78,11 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0
+    functionName: Dashing
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
